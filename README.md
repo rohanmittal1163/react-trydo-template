@@ -52,6 +52,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ```
 git clone https://github.com/rohanmittal163/react-trydo-template.git
 ```
+
+- After downloading or cloning run in the cmd: 
+``` npm install ```
 ## ❤ Contribute
 This project is open source and we are happy to receive contributions. If you would like to contribute, please follow these steps:
 
