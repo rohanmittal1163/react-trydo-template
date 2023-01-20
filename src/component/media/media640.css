@@ -1,0 +1,25 @@
+@media (min-width: 640px) {
+  .all-demo {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .options ul {
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+  }
+  .banner .box1 {
+    width: 70%;
+  }
+  .card-awesome {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(auto, 1fr);
+  }
+}
+@media (max-width: 640px) {
+  .options ul {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+  .perform .left-side h1 {
+    font-size: 3rem;
+  }
+}

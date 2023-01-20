@@ -1,0 +1,60 @@
+.faq {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	padding: 20px;
+	margin: 5% auto 0;
+	width: 96%;
+}
+.faq-l {
+	grid-column: span 2 / span 2;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	color: #94a3b8;
+}
+.faq-l h1 {
+	color: #191919;
+	font-size: 4em;
+}
+.faq-l h1 span {
+	color: rgb(249, 0, 77);
+}
+
+.faq-r {
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+}
+.faq-c {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	background-color: white;
+	box-shadow: 0px 5px 10px gray;
+	width: 80%;
+	padding: 30px;
+}
+.faq-c h2 {
+	color: black;
+	font-size: 1em;
+}
+.faq-c p {
+	color: #94a3b8;
+}
+.faq-c button {
+	border-radius: 7px;
+	text-transform: uppercase;
+	color: rgb(249, 0, 77);
+	border: 2px solid rgb(249, 0, 77);
+	padding: 10px 20px;
+	background-color: white;
+	transition: all 200ms ease-in-out;
+	font-weight: 900;
+	cursor: pointer;
+}
+.faq-c button:hover {
+	background-color: rgb(249, 0, 77);
+	color: white;
+	transform: translateY(-10px);
+}

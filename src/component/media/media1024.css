@@ -1,0 +1,27 @@
+@media (min-width: 1024px) {
+  .all-demo {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .options {
+    width: 70%;
+  }
+  .banner .box1 {
+    width: 40%;
+    left: 30%;
+  }
+  .card-awesome {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(auto, 1fr);
+  }
+  .device .cont-device {
+    width: 40%;
+    top: 14%;
+  }
+  .cont-device h1 {
+    font-size: 3em;
+  }
+
+  .greet-cont {
+    width: 50%;
+  }
+}

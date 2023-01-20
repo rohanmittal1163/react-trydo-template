@@ -1,0 +1,51 @@
+@media (min-width: 768px) {
+  .options {
+    width: 80%;
+  }
+  .banner .box1 {
+    width: 50%;
+    left: 30%;
+  }
+  .banner {
+    height: 100vh;
+    top: 50%;
+    background-image: url("http://trydo.rainbowit.net/assets/images/preview/preview-bg.jpg");
+  }
+  .card-awesome {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(auto, 1fr);
+  }
+  .perform {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+  }
+  .left-side {
+    margin-left: 5%;
+  }
+  .device {
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url("http://trydo.rainbowit.net/assets/images/bg/bg-image-34.jpg");
+  }
+  .device .cont-device {
+    position: absolute;
+    width: 50%;
+    top: 20%;
+    right: 1%;
+  }
+  .cont-device h1 {
+    font-size: 2em;
+  }
+  .greet-cont {
+    width: 70%;
+  }
+  .faq {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 30px;
+    padding: 10px;
+  }
+  .faq-c {
+    width: 96%;
+  }
+}

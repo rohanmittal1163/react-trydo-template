@@ -1,0 +1,42 @@
+.device {
+	background-color: #191919;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: auto;
+	margin: 10% auto 0 auto;
+	padding-top: 7%;
+	position: relative;
+}
+.device .cont-device {
+	width: 90%;
+	margin: auto;
+	text-align: center;
+}
+
+.cont-device h1 {
+	font-size: 3.5em;
+	color: rgb(249, 0, 77);
+}
+
+.cont-device p {
+	font-size: 1.2em;
+	color: #94a3b8;
+	line-height: 30px;
+	padding-top: 2%;
+}
+.resp {
+	display: flex;
+	flex-direction: row;
+	padding: 6% 0;
+	gap: 30px;
+	justify-content: center;
+}
+
+.resp-1 {
+	border: 2px solid #334155;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 5px;
+}

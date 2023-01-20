@@ -1,0 +1,69 @@
+.cust-feed {
+	width: 100%;
+	margin: auto;
+	background-color: white;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 20px;
+	padding: 5% 0;
+}
+.cust-feed h1 {
+	color: rgb(249, 0, 77);
+	font-size: 3em;
+}
+.cust-feed p {
+	color: slategrey;
+	font-size: 1.3em;
+}
+.cust-feed > div {
+	width: 96%;
+}
+.cust-card {
+	width: 98%;
+	background-color: whitesmoke;
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.cust-card > div {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	align-items: center;
+}
+.cust-card > div > div {
+	display: flex;
+	flex-direction: column;
+	gap: 3px;
+}
+.cust-card > div > div p:first-child {
+	font-size: 1em;
+	color: black;
+	font-weight: bolder;
+}
+.cust-card > div > div p:nth-child(2) {
+	font-size: 0.8em;
+	color: rgb(249, 0, 77);
+}
+.cust-card p {
+	text-align: start;
+	font-weight: 700;
+	color: #191919;
+}
+.cust-card p:nth-child(3) {
+	font-size: 1em;
+	line-height: 30px;
+	font-weight: 200;
+	color: gray;
+}
+.cust-card img {
+	width: 130px;
+	height: 40px;
+}
+.cust-card img:first-child {
+	width: 50px;
+	height: 50px;
+}

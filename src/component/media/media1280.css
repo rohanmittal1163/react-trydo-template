@@ -1,0 +1,18 @@
+@media (min-width: 1280px) {
+	.banner .box1 {
+		width: 30%;
+		left: 20%;
+	}
+	.all-demo {
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.options {
+		width: 60%;
+	}
+	.device .cont-device {
+		top: 20%;
+	}
+	.greet-cont {
+		width: 40%;
+	}
+}

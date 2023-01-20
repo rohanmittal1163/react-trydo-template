@@ -1,0 +1,39 @@
+.footer {
+	background-image: url('http://trydo.rainbowit.net/assets/images/pattern-1.png'),
+		url('https://htmlcolorcodes.com/assets/images/colors/red-color-solid-background-1920x1080.png');
+	background-blend-mode: hard-light;
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 5% 0;
+	margin: 2% 0 0 0;
+}
+.footer p:first-child {
+	letter-spacing: 5px;
+}
+.footer p:nth-child(2) {
+	font-size: 5em;
+	font-weight: bold;
+}
+.footer button {
+	text-transform: capitalize;
+	letter-spacing: 4px;
+	border: 2px solid white;
+	color: white;
+	background: transparent;
+	padding: 20px;
+	font-size: 20px;
+	border-radius: 7px;
+	cursor: pointer;
+	transition: all 200ms linear;
+}
+.footer button:hover {
+	background-color: white;
+	color: red;
+	transform: translateY(-8px);
+	font-weight: bold;
+}
