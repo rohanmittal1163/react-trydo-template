@@ -5,7 +5,7 @@
 This is a template for a template selling website.
 here we get various types of templates be it landing pages or new or professional. Do check it out
 
-# ⚜ DEMO
+# ⚜ DEMO -- https://trydo1163.netlify.app/
 ![image](https://user-images.githubusercontent.com/97821844/213665526-1c588957-2468-4634-aa79-77a7c3bf7fc4.png)
 ![image](https://user-images.githubusercontent.com/97821844/213665570-1eaaee76-1101-4306-b7f1-853dfd1f981c.png)
 ![image](https://user-images.githubusercontent.com/97821844/213665615-343e0c95-bccb-4070-906c-7dc3577590d4.png)
