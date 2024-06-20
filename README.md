@@ -19,6 +19,11 @@ here we get various types of templates be it landing pages or new or professiona
 ![image](https://user-images.githubusercontent.com/97821844/213666266-376653a7-d674-4e91-82d5-ef78e8e6bb61.png)
 ![image](https://user-images.githubusercontent.com/97821844/213666300-95e65e75-722a-4192-8579-170f7d7adac4.png)
 
+# 📽️ Video
+https://github.com/rohanmittal1163/react-trydo-template/assets/97821844/614b8737-6a8e-43c7-8a8e-96971d319cea
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
